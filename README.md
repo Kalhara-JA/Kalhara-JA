@@ -6,7 +6,7 @@ Seasoned professional in the software industry with over a year of hands-on expe
 
 ### 📫 Contact Me
 
-/
+
 [![Gmail Badge](https://img.shields.io/badge/-kalhara.ja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalhara.ja@gmail.com)](mailto:kalhara.ja@gmail.com)
 <br/>
 <hr/>

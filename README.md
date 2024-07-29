@@ -6,8 +6,7 @@ Seasoned professional in the software industry with over a year of hands-on expe
 
 ### 📫 Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-kalhara-ja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalhara-ja)](https://www.linkedin.com/in/kavindu-wijegunasekara-49729a219/)
-&nbsp;
+<a href='https://kalharaja.com/' target="_blank"><img alt='' src='https://img.shields.io/badge/kalharaja.com-100000?style=plastic&logo=&logoColor=white&labelColor=black&color=black'/></a>
 [![Gmail Badge](https://img.shields.io/badge/-kalhara.ja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalhara.ja@gmail.com)](mailto:kalhara.ja@gmail.com)
 <br/>
 <hr/>

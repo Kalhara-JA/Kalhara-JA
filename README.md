@@ -6,7 +6,7 @@ Seasoned professional in the software industry with over a year of hands-on expe
 
 ### 📫 Contact Me
 
-[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://kalharaja.com/_next/image?url=%2Fsignwhite.png&w=128&q=75))](https://kalharaja.com/)
+[![kalharaja.com](https://kalharaja.com/_next/image?url=%2Fsignwhite.png&w=128&q=75))](https://kalharaja.com/)
 [![Gmail Badge](https://img.shields.io/badge/-kalhara.ja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalhara.ja@gmail.com)](mailto:kalhara.ja@gmail.com)
 <br/>
 <hr/>

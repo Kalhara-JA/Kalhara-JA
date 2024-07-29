@@ -1,16 +1,28 @@
-## Hi there 👋
+## Kalhara JA 👋
 
-<!--
-**Kalhara-JA/Kalhara-JA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Undergraduate`** **`| Faculty of Information Technology`**
 
-Here are some ideas to get you started:
+Seasoned professional in the software industry with over a year of hands-on experience. Equipped with a solid foundation in MERN, Next, Nest, Java, Springboot, Firebase & sql. I have contributed to several industry level projects(Laundromat, Arctic, Riba, Spreadit Global) while continuously expanding my skill set. Thriving in fast-paced environments, I am adept at collaborating with cross-functional teams to deliver innovative solutions. Eager to further enrich my expertise and tackle new challenges in the software realm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-kalhara-ja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalhara-ja)](https://www.linkedin.com/in/kavindu-wijegunasekara-49729a219/)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-kalhara.ja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalhara.ja@gmail.com)](mailto:kalhara.ja@gmail.com)
+<br/>
+<hr/>
+
+### 🧰 Languages and Tools
+
+<br/>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,prisma,tailwind,ts,java,git,aws,azure,bash,bootstrap,c,css,docker,express,figma,firebase,github,html,idea,js,linux,materialui,mongodb,mysql,nodejs,postman,react,redux&perline=20" />
+  </a>
+</p>
+
+<hr/>
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kalhara-JA&theme=discord&no-frame=false&no-bg=true&margin-w=4)

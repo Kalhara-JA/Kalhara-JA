@@ -12,7 +12,7 @@ Dedicated and results-driven IT undergraduate with a strong academic background 
 ## 🛠 Technical Skills
 
 **Programming Languages:**
-- JavaScript, TypeScript, Java, C, Python
+- JavaScript, TypeScript, Java, Ballerina, C, Python
 
 **Libraries & Frameworks:**
 - React, NextJS, NodeJS, NestJS, Express, SpringBoot
